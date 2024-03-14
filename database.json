@@ -1,49 +1,43 @@
 {
-	"products":[
-		{
-			"id" : 1,
-			"name": "Product 1",
-			"description": "Description for Product 1",
-			"price": 29.99,
-			"image": "1.jpg"
-		},
-		{
-			"id" : 2,
-			"name": "Product 2",
-			"description": "Description for Product 2",
-			"price": 39.99,
-			"image": "2.jpg"
-		},
-		{
-			"id":3,
-			"name": "Product 3",
-			"description": "Description for Product 3",
-			"price": 49.99,
-			"image": "3.jpg"
-		}
+	"products": [
+	  {
+		"id": 1,
+		"name": "Product 1",
+		"description": "Description for Product 1",
+		"price": 29.99,
+		"image": "1.jpg"
+	  },
+	  {
+		"id": 2,
+		"name": "Product 2",
+		"description": "Description for Product 2",
+		"price": 39.99,
+		"image": "2.jpg"
+	  },
+	  {
+		"id": 3,
+		"name": "Product 3",
+		"description": "Description for Product 3",
+		"price": 49.99,
+		"image": "3.jpg"
+	  }
 	],
-	"users":[
-		{
-			"id" : 1,
-			"name": "Product 1",
-			"description": "Description for Product 1",
-			"price": 29.99,
-			"image": "1.jpg"
-		},
-		{
-			"id" : 2,
-			"name": "Product 2",
-			"description": "Description for Product 2",
-			"price": 39.99,
-			"image": "2.jpg"
-		},
-		{
-			"id":3,
-			"name": "Product 3",
-			"description": "Description for Product 3",
-			"price": 49.99,
-			"image": "3.jpg"
-		}
+	"users": [
+	  {
+		"id": 1,
+		"username": "user1",
+		"email": "user1@example.com"
+	  },
+	  {
+		"id": 2,
+		"username": "user2",
+		"email": "user2@example.com"
+	  },
+	  {
+		"id": 3,
+		"username": "user3",
+		"email": "user3@example.com"
+	  }
 	]
-	
-}
+  }
+  
