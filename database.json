@@ -2,41 +2,87 @@
 	"products": [
 	  {
 		"id": 1,
-		"name": "Product 1",
-		"description": "Description for Product 1",
-		"price": 29.99,
-		"image": "1.jpg"
+		"name": "Laptop Lenovo ThinkPad X1 Carbon",
+		"description": "14 inch, Intel Core i7, 16GB RAM, 512GB SSD",
+		"price": 1699.99,
+		"image": "laptop-lenovo-thinkpad-x1-carbon.jpg",
+		"category": "Electronics",
+		"rating": 4.8,
+		"reviews": 25,
+		"available": true,
+		"tags": ["laptop", "lenovo", "business"],
+		"variants": [
+		  {
+			"color": "Black",
+			"size": "14 inch",
+			"stock": 50
+		  },
+		  {
+			"color": "Silver",
+			"size": "14 inch",
+			"stock": 30
+		  }
+		]
 	  },
 	  {
 		"id": 2,
-		"name": "Product 2",
-		"description": "Description for Product 2",
-		"price": 39.99,
-		"image": "2.jpg"
-	  },
-	  {
-		"id": 3,
-		"name": "Product 3",
-		"description": "Description for Product 3",
-		"price": 49.99,
-		"image": "3.jpg"
+		"name": "Nike Air Zoom Pegasus 38",
+		"description": "Men's Running Shoe",
+		"price": 119.99,
+		"image": "nike-air-zoom-pegasus-38.jpg",
+		"category": "Sports & Outdoors",
+		"rating": 4.6,
+		"reviews": 18,
+		"available": true,
+		"tags": ["shoes", "running", "nike"],
+		"variants": [
+		  {
+			"color": "Black/White",
+			"size": "10",
+			"stock": 20
+		  },
+		  {
+			"color": "Blue/Red",
+			"size": "9",
+			"stock": 15
+		  }
+		]
 	  }
 	],
 	"users": [
 	  {
 		"id": 1,
-		"username": "user1",
-		"email": "user1@example.com"
+		"username": "john_doe",
+		"email": "john.doe@example.com",
+		"role": "admin",
+		"registered_at": "2024-03-14T12:00:00Z",
+		"last_login": "2024-03-15T08:30:00Z",
+		"orders": [
+		  {
+			"order_id": "ORD123",
+			"date": "2024-03-15T10:00:00Z",
+			"total_amount": 1789.98,
+			"items": [
+			  {
+				"product_id": 1,
+				"quantity": 1
+			  },
+			  {
+				"product_id": 2,
+				"quantity": 2
+			  }
+			]
+		  }
+		]
 	  },
 	  {
 		"id": 2,
-		"username": "user2",
-		"email": "user2@example.com"
-	  },
-	  {
-		"id": 3,
-		"username": "user3",
-		"email": "user3@example.com"
+		"username": "jane_smith",
+		"email": "jane.smith@example.com",
+		"role": "user",
+		"registered_at": "2024-02-28T09:45:00Z",
+		"last_login": "2024-03-14T16:20:00Z",
+		"orders": []
 	  }
 	]
   }
