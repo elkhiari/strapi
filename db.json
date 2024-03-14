@@ -5,21 +5,21 @@
 			"name": "Product 1",
 			"description": "Description for Product 1",
 			"price": 29.99,
-			"image": "1.png"
+			"image": "1.jpg"
 		},
 		{
 			"id" : 2,
 			"name": "Product 2",
 			"description": "Description for Product 2",
 			"price": 39.99,
-			"image": "2.png"
+			"image": "2.jpg"
 		},
 		{
 			"id":3,
 			"name": "Product 3",
 			"description": "Description for Product 3",
 			"price": 49.99,
-			"image": "3.png"
+			"image": "3.jpg"
 		}
 	]
 	
