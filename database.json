@@ -73,7 +73,7 @@
 		]
 	  }
 	],
-	
+
 	"users": [
 	  {
 		"id": 1,
@@ -113,14 +113,17 @@
 
 	"categories" : [
 		{
+			"id": 1,
 			"name": "boulangerie",
 			"image": "boulangerie.jpg"
 		},
 		{
+			"id": 2,
 			"name": "viennoiserie",
 			"image": "viennoiserie"
 		},
 		{
+			"id": 3,
 			"name" : "patisserie",
 			"image" : "patisserie.jpg"
 		}
