@@ -2,8 +2,8 @@
 	"products": [
 	  {
 		"id": 1,
-		"name": "Laptop Lenovo ThinkPad X1 Carbon",
-		"description": "14 inch, Intel Core i7, 16GB RAM, 512GB SSD",
+		"name": "Gâteau gourmand au chocolat et aux baies",
+		"description": "Étages de riche gâteau au chocolat entrecoupés d'un glaçage crémeux, surmonté d'un somptueux assortiment de baies fraîches et orné d'une ganache au chocolat dégoulinante.",
 		"image": "1.jpg",
 		"price": 1699.99,
 		"category": "Electronics",
@@ -26,8 +26,8 @@
 	  },
 	  {
 		"id": 2,
-		"name": "Nike Air Zoom Pegasus 38",
-		"description": "Men's Running Shoe",
+		"name": "Croissants aux amandes",
+		"description": " Croissants fraîchement sortis du four, de couleur brun doré, certains natures et d'autres garnis d'amandes tranchées. Les couches feuilletées sont visibles, évoquant l'arôme et le goût délicieux de ces pâtisseries..",
 		"price": 119.99,
 		"category": "Sports & Outdoors",
 		"image": "2.jpg",
@@ -49,9 +49,9 @@
 		]
 	  },
 		 {
-		"id": 2,
-		"name": "Nike Air Zoom Pegasus 38",
-		"description": "Men's Running Shoe",
+		"id": 3,
+		"name": "Pain Au Levain Artisanal",
+		"description": "Une miche de pain fraîchement cuite avec une croûte brun doré, des textures visibles et un aspect rustique. Le pain repose sur une planche à découper ronde en bois, accompagnée d'un couteau dentelé. La scène évoque la chaleur et le réconfort du pain fait maison.",
 		"price": 119.99,
 		"category": "Sports & Outdoors",
 		"image": "3.jpg",
