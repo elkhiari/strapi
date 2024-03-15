@@ -111,23 +111,27 @@
 	  }
 	],
 
-	"categories" : [
+	"categories": [
 		{
 			"id": 1,
 			"name": "boulangerie",
-			"image": "boulangerie.jpg"
+			"image": "boulangerie.jpg",
+			"description": "Une boulangerie propose une variété de pains frais, de baguettes croustillantes à la miche de pain au levain."
 		},
 		{
 			"id": 2,
 			"name": "viennoiserie",
-			"image": "viennoiserie.jpg"
+			"image": "viennoiserie.jpg",
+			"description": "La viennoiserie englobe une gamme de viennoiseries légères et feuilletées, telles que croissants et pains au chocolat."
 		},
 		{
 			"id": 3,
-			"name" : "patisserie",
-			"image" : "patisserie.jpg"
+			"name": "patisserie",
+			"image": "patisserie.jpg",
+			"description": "La pâtisserie représente l'art de la pâtisserie française, offrant une gamme de desserts, gâteaux et douceurs."
 		}
 	]
+	
   }
   
 
