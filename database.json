@@ -73,6 +73,7 @@
 		]
 	  }
 	],
+	
 	"users": [
 	  {
 		"id": 1,
@@ -108,6 +109,24 @@
 		"last_login": "2024-03-14T16:20:00Z",
 		"orders": []
 	  }
+	],
+
+	"categories" : [
+		{
+			"name": "boulangerie",
+			"image": "boulangerie.jpg"
+		},
+		{
+			"name": "viennoiserie",
+			"image": "viennoiserie"
+		},
+		{
+			"name" : "patisserie",
+			"image" : "patisserie.jpg"
+		}
 	]
   }
+  
+
+
   
