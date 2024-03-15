@@ -4,6 +4,7 @@
 		"id": 1,
 		"name": "Laptop Lenovo ThinkPad X1 Carbon",
 		"description": "14 inch, Intel Core i7, 16GB RAM, 512GB SSD",
+		"image": "1.jpg",
 		"price": 1699.99,
 		"image": "laptop-lenovo-thinkpad-x1-carbon.jpg",
 		"category": "Electronics",
@@ -31,6 +32,32 @@
 		"price": 119.99,
 		"image": "nike-air-zoom-pegasus-38.jpg",
 		"category": "Sports & Outdoors",
+		"image": "2.jpg",
+		"rating": 4.6,
+		"reviews": 18,
+		"available": true,
+		"tags": ["shoes", "running", "nike"],
+		"variants": [
+		  {
+			"color": "Black/White",
+			"size": "10",
+			"stock": 20
+		  },
+		  {
+			"color": "Blue/Red",
+			"size": "9",
+			"stock": 15
+		  }
+		]
+	  },
+		 {
+		"id": 2,
+		"name": "Nike Air Zoom Pegasus 38",
+		"description": "Men's Running Shoe",
+		"price": 119.99,
+		"image": "nike-air-zoom-pegasus-38.jpg",
+		"category": "Sports & Outdoors",
+		"image": "3.jpg",
 		"rating": 4.6,
 		"reviews": 18,
 		"available": true,
