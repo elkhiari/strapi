@@ -78,7 +78,7 @@
 	  {
 		"id": 1,
 		"username": "john_doe",
-		"email": "john.doe@example.com",
+		"email": "john.doe@example.ma",
 		"role": "admin",
 		"registered_at": "2024-03-14T12:00:00Z",
 		"last_login": "2024-03-15T08:30:00Z",
